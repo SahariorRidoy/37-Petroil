@@ -9,7 +9,7 @@ import instaHead from "../../assets/instagram-header.png";
 
 export default function Header() {
   return (
-    <div className="bg-[#282828] p-4">
+    <div className="bg-[#282828] py-4 border-b-[3px] border-b-[#FFB800] ">
       <div className="max-w-[1140px] mx-auto">
         {/* Header Content */}
         <div className="flex justify-between items-center text-white text-xs">
