@@ -16,7 +16,7 @@ export default function Services() {
         <div className="absolute inset-0 bg-[#00000099]" />
         <div className='max-w-[1140px] mx-auto relative z-10 pl-[116px]'>  
             <h1 className=' text-white font-bold text-4xl mb-5'>Modern natural oil and gas refineries.</h1>
-            <button className='bg-[#F40404] py-[13px] px-10 text-white font-semibold'>LEARN MORE</button>
+            <button className='bg-[#F40404] py-[13px] px-10 text-white font-semibold hover:bg-white hover:text-black hover:border-black'>LEARN MORE</button>
             
         </div>
       </div>
@@ -24,14 +24,14 @@ export default function Services() {
         <div className="absolute inset-0 bg-[#00000099]" />
         <div className='max-w-[1140px] mx-auto relative z-10 pl-[116px]'>
             <h1 className=' text-white font-bold text-4xl mb-5'>Supply of national industries.</h1>
-            <button className='bg-[#F40404] py-[13px] px-10 text-white font-semibold'>LEARN MORE</button>
+            <button className='bg-[#F40404] py-[13px] px-10 text-white font-semibold hover:bg-white hover:text-black hover:border-black'>LEARN MORE</button>
         </div>
       </div>
         <div style={{backgroundImage:`url(${service3})`}} className=" bg-cover bg-no-repeat w-full py-[140px] relative">
         <div className="absolute inset-0 bg-[#00000099] " />
         <div className='max-w-[1140px] mx-auto relative z-10 pl-[116px]'>
             <h1 className=' text-white font-bold text-4xl mb-5'>National fuel distribution and supply.</h1>
-            <button className='bg-[#F40404] py-[13px] px-10 text-white font-semibold'>LEARN MORE</button>
+            <button className='bg-[#F40404] py-[13px] px-10 text-white font-semibold hover:bg-white hover:text-black hover:border-black'>LEARN MORE</button>
         </div>
       </div>
     </div>

@@ -17,7 +17,7 @@ export default function Navbar() {
                         <li><a href="">Gallery</a></li>
                         <li><a href="">Blog</a></li>
                     </ul>
-                    <button className='border-2 text-center ml-32 md:ml-0 border-white px-7 py-[13px] text-white text-base font-semibold'>
+                    <button className='border-2 text-center ml-32 md:ml-0 border-white px-7 py-[13px] text-white text-base font-semibold hover:bg-white hover:text-black hover:border-black'>
                         <a href="">Contact</a></button>
                 
 
