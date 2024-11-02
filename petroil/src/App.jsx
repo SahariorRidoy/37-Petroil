@@ -5,6 +5,7 @@ import Blog from './components/Blog/Blog'
 import Header from './components/Header/Header'
 import LearnMore from './components/LearnMore/LearnMore'
 import Logos from './components/Logos/Logos'
+import Map from './components/Map/Map'
 import Navbar from './components/Navbar/Navbar'
 import Services from './components/Services/Services'
 import Supplier from './components/Supplier/Supplier'
@@ -21,6 +22,7 @@ function App() {
     <LearnMore></LearnMore>
     <Logos></Logos>
     <Blog></Blog>
+    <Map></Map>
       
     </>
   )
