@@ -11,11 +11,11 @@ export default function Navbar() {
             <div className='md:flex items-center gap-[72px]'>
                 
                     <ul className='md:flex text-center text-white gap-12 text-base font-semibold'>
-                        <li><a href="">Home</a></li>
-                        <li><a href="">About</a></li>
-                        <li><a href="">Services</a></li>
-                        <li><a href="">Gallery</a></li>
-                        <li><a href="">Blog</a></li>
+                        <li className='hover:bg-white hover:text-red-700 px-2 py-1 rounded-lg'><a href="">Home</a></li>
+                        <li className='hover:bg-white hover:text-red-700 px-2 py-1 rounded-lg'><a href="">About</a></li>
+                        <li className='hover:bg-white hover:text-red-700 px-2 py-1 rounded-lg'><a href="">Services</a></li>
+                        <li className='hover:bg-white hover:text-red-700 px-2 py-1 rounded-lg'><a href="">Gallery</a></li>
+                        <li className='hover:bg-white hover:text-red-700 px-2 py-1 rounded-lg'><a href="">Blog</a></li>
                     </ul>
                     <button className='border-2 text-center ml-32 md:ml-0 border-white px-7 py-[13px] text-white text-base font-semibold hover:bg-white hover:text-black hover:border-black'>
                         <a href="">Contact</a></button>
